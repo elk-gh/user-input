@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">UserInput</string>
     <string name="counter_label">Counter</string>
+    <string name="tap">Tap</string>
+    <string name="screen">Screen</string>
 </resources>
